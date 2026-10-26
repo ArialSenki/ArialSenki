@@ -1,22 +1,13 @@
-### Hi, I'm ArialSenki
+### I’m ArialSenki.
 
-I make mods and modding tools for **Elden Ring**: native DLL mods that change the game from the inside, in-game menus built on the game's own UI, and a Mod Organizer 2 edition tailored to the game.
+I make mods, you’ll find all of them on my [Nexus Mods page](https://www.nexusmods.com/profile/ArialSenki), and some are open source here.
 
-#### Mods
+For bugs or suggestions, use each mod’s Bugs or Posts tab on Nexus, or open an issue in its repository, and include your game version and mod loader. I answer in English or Spanish.
 
-- **NativeTweaks** ([Nexus](https://www.nexusmods.com/eldenring/mods/11339) · [source](https://github.com/ArialSenki/NativeTweaks)) · a native "NativeTweaks" tab in the System menu with 100+ vanilla settings (applied instantly, with hotkeys and profiles), several spirit ashes at once, and in-game editing of other DLL mods' INI files.
-- **Multiple Spirit Ashes** ([Nexus](https://www.nexusmods.com/eldenring/mods/11158) · [source](https://github.com/ArialSenki/MultipleSpiritAshes)) · summon several different spirit ashes at once and dismiss them one by one; they follow you between areas and show their HP on the HUD.
+---
 
-#### Tools
+### Soy ArialSenki.
 
-- **[MO2 Revamped](https://github.com/ArialSenki/MO2-Revamped)** · a community edition of Mod Organizer 2 for Elden Ring: portable installer, six languages, native DLL profiles, save isolation and refreshed themes.
+Hago mods. Los encontrarás todos en mi [página de Nexus Mods](https://www.nexusmods.com/profile/ArialSenki), y algunos son de código abierto aquí.
 
-#### Contributions
-
-- [ERNativeUI](https://github.com/Flammrock/ERNativeUI) (shared native menu framework for Elden Ring mods): [fix for mods that hook the native Back function](https://github.com/Flammrock/ERNativeUI/pull/18).
-
-#### What I work with
-
-C++ and Rust for DLL mods, x64 reverse engineering (game code, params, Scaleform GFX), Mod Engine 2 / ME3 loading, Qt for tools.
-
-More of my work is on my **[Nexus Mods page](https://www.nexusmods.com/profile/ArialSenki)**.
+Para errores o sugerencias, usa la pestaña Bugs o Posts de cada mod en Nexus, o abre un issue en su repositorio, e indica la versión del juego y el cargador de mods que usas. Respondo en inglés o en español.
